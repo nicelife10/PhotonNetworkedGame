@@ -1,0 +1,52 @@
+INU_ALIEN.png
+size:2048,512
+filter:Linear,Linear
+scale:0.4
+Head
+bounds:2,3,398,507
+Hip
+bounds:1220,12,247,118
+ZOOM LINES
+bounds:744,176,84,36
+rotate:90
+l arm1
+bounds:593,21,142,211
+rotate:90
+l arm2
+bounds:806,35,225,218
+rotate:90
+l foot1
+bounds:1549,240,196,100
+l foot2
+bounds:1747,258,150,114
+rotate:90
+l hand
+bounds:1026,26,192,234
+l leg dn
+bounds:402,2,161,189
+rotate:90
+l leg up
+bounds:1427,342,138,168
+r arm dn
+bounds:1220,132,198,176
+rotate:90
+r arm up
+bounds:1174,332,178,251
+rotate:90
+r foot1
+bounds:1567,410,196,100
+r foot2
+bounds:1774,106,150,114
+rotate:90
+r hand
+bounds:1398,154,149,176
+r leg up
+bounds:1653,77,119,161
+r lrg dn
+bounds:1469,16,136,182
+rotate:90
+tail
+bounds:402,165,340,345
+torso
+bounds:744,262,248,428
+rotate:90

@@ -1,0 +1,51 @@
+RICARDO_MILOS.png
+size:2048,1024
+filter:Linear,Linear
+scale:0.4
+Head
+bounds:1118,530,418,490
+Hip
+bounds:828,85,285,119
+ZOOM LINES
+bounds:230,3,84,36
+l arm1
+bounds:230,41,163,240
+rotate:90
+l arm2
+bounds:1538,540,271,222
+l foot1
+bounds:1635,297,241,118
+rotate:90
+l foot2
+bounds:1755,397,180,113
+l hand
+bounds:1538,764,255,256
+l leg dn
+bounds:2,5,199,226
+rotate:90
+l leg up
+bounds:646,11,180,193
+r leg up2
+bounds:646,11,180,193
+mock
+bounds:2,206,814,1114
+rotate:90
+r arm dn
+bounds:1811,512,280,206
+rotate:90
+r arm up
+bounds:1795,794,226,237
+rotate:90
+r foot1
+bounds:1635,54,241,118
+rotate:90
+r foot2
+bounds:1755,282,180,113
+r hand
+bounds:472,2,172,202
+r leg up
+bounds:1115,13,174,191
+r lrg dn
+bounds:1118,322,158,206
+torso
+bounds:1291,44,342,484
